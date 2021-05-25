@@ -3,12 +3,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: orchid;
+    background-color: teal;
 }
 
 h1 {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 13rem;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .letter {
