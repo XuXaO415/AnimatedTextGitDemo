@@ -1,3 +1,16 @@
 body {
-    background-color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: orchid;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 13rem;
+}
+
+.letter {
+    transition: color 1000ms;
 }
