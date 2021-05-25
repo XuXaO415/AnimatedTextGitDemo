@@ -1,3 +1,16 @@
 body {
-    background-color: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: teal;
+}
+
+h1 {
+    font-size: 16rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.letter {
+    transition: color 1000ms;
 }
